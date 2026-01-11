@@ -37,9 +37,4 @@ if __name__ == "__main__":
             print("Yes! One of them is a multiple of the other")
         else:
             print("They are not multiples!")
-        
-
-
-
-
             
