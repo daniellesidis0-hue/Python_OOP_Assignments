@@ -98,7 +98,3 @@ if __name__=="__main__":
     #Call Methods
     my_option.display_info()
     my_option.display_strike_details()
-
-
-    
-
